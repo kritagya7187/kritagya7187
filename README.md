@@ -1,4 +1,4 @@
-# 👋 Hi, I'm **Kritagya Kumar Singh Tomar**! (Some the projects are removed/off because they have been submitted in journals for publications)
+# 👋 Hi, I'm **Kritagya Kumar Singh Tomar**! (Some of the projects are removed/off because they have been submitted to journals for publication)
 
 I’m a **Postgraduate Geography** student specializing in **Hydrology**, passionate about **GIS**, **Remote Sensing**, and **Climate Change Modeling**. I'm on a mission to create a sustainable future through **geospatial technologies** and **environmental research**. 🌍
 
